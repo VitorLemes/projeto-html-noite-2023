@@ -1,0 +1,54 @@
+
+body {
+    margin: 0;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+  }
+
+nav {
+    font-size: 20px;
+    background-color:rgb(205, 82, 16);
+    padding: 15 900px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+p {
+    color:rgb(255, 255, 255);
+}
+
+h2, h3 {
+    color:#e7a669;
+    text-align: center;
+}
+
+nav, ul {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    padding: 0 10px;
+}
+
+div{
+    color:rgb(0, 0, 0) ;
+}
+
+input {
+    min-height: 30px;
+    margin-top: 4px;
+}
+
+button {
+    
+}
+
