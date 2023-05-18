@@ -53,10 +53,9 @@ img {
 }
 
 button {
-    font-size: 25px;
-    font-weight: 600;
+    font-size: 20px;
     background-color: aqua;
-    border-radius: 20px;
+    border-radius: 25px;
     padding: 10px 60px;
     cursor: pointer;
   }
