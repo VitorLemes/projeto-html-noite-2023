@@ -1,6 +1,36 @@
+<<<<<<< HEAD
 body {
     margin: 0;
     align-items: center;
+=======
+button {
+    display: flex;
+    margin:0 auto;
+    align-items:center;
+}
+input {
+    max-width: 230px;
+    background-color: #f1efeb;
+    opacity: 1;
+    color: #000000;
+    padding: .15rem .5rem;
+    min-height: 40px;
+    border-radius: 18px;
+    outline: none;
+    border: none;
+    line-height: 1.15;
+    box-shadow: 0px 10px 20px -18px;
+}
+
+button {
+    color: orange;
+    opacity: 1;
+}
+body {
+    margin: 0;
+    align-items: center;
+    opacity: 0.8;
+>>>>>>> d0db4de1de0e263f134a1129e55e1d27e9f95757
 }
 
 ul {
@@ -10,6 +40,7 @@ ul {
 
 li {
     list-style-type: none;
+<<<<<<< HEAD
 }
 
 nav {
@@ -17,10 +48,20 @@ nav {
     background-color: rgb(227, 127, 73);
     padding: 15 900px;
     justify-content: space-around;
+=======
+  }
+
+nav {
+    font-size: 20px;
+    background-color:rgb(205, 82, 16);
+    padding: 15 900px;
+    justify-content: space-between;
+>>>>>>> d0db4de1de0e263f134a1129e55e1d27e9f95757
     align-items: center;
 }
 
 p {
+<<<<<<< HEAD
     color: rgb(255, 255, 255);
 }
 
@@ -32,6 +73,21 @@ h3 {
 
 nav,
 ul {
+=======
+    color:rgb(255, 255, 255);
+}
+
+h2, h3 {
+    color:#e98222;
+    text-align: center;
+}
+
+h4 {
+    color:rgb(0, 85, 255);
+}
+
+nav, ul {
+>>>>>>> d0db4de1de0e263f134a1129e55e1d27e9f95757
     display: flex;
     flex-direction: row;
 }
@@ -40,6 +96,7 @@ li {
     padding: 0 10px;
 }
 
+<<<<<<< HEAD
 div {
     color: rgb(0, 0, 0);
 }
@@ -77,4 +134,8 @@ button {
 
 ::placeholder {
     color: purple;
+=======
+div{
+    color:white ;
+>>>>>>> d0db4de1de0e263f134a1129e55e1d27e9f95757
 }
